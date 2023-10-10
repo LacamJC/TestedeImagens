@@ -1,0 +1,59 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+body 
+{
+    background-color: whitesmoke;
+}
+
+#conteudo
+{
+    background-color: white;
+    width: 500px;
+    text-align: center;
+    padding: 20px 10px;
+    margin: 0 auto;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    
+}
+
+
+#caixa img
+{
+    width: 300px;
+    height: 300px;
+}
+
+#caixa 
+{
+    width: 300px;
+    height: 300px;
+    background-color: red;
+    margin: 0 auto;
+}
+
+#btn
+{
+    padding: 10px;
+    margin: 10px;
+    
+
+}
+
+header
+{
+    height: 100px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+}
+
+#data
+{
+    text-align: center;
+    font-size: 1.2em;
+}
